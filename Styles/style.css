@@ -12,6 +12,145 @@
 .white{
     color: #FFFFFF;
 }
+
+.font-color
+{
+color: #070159;
+}
+.section-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0D1321;
+}
+.section-description{
+    font-size: 18px;
+    color: #0D1321;
+}
+.pera{
+    text-align: left;
+}
+.learn-btn{
+    
+        background-color:#FFFFFF ;
+        
+        font-size: 20px;
+        color: #0D1321;
+        padding: 0 20px;
+        border: radius 4PX;
+        border:color #0D1321;
+        margin-bottom: 50px;
+        margin-right: 20px;
+        max-width: 170px;
+        max-height: 47px;
+}
+.btn-a{
+    float: left;
+
+}
+/* main-styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* why-web-development */
+.why-web{
+    border-radius: 10px;
+    padding: 148px 152px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.first{
+
+display: flex;
+padding:58px 48px;
+}
+.a{
+    display: flex;
+    justify-content: center;
+
+}
+.b{
+    text-align:end ;
+}
+
+.second{
+    display: flex;
+    margin-top: 20;
+    padding: 58px 48px;
+    
+}
+.third{
+    display: flex;
+    margin-top: 20;
+    padding: 58px 48px;
+}
+.l-center{
+    align-items: t;
+}
+.third{
+    display: flex;
+}
+
+/* my inspiration */
+.Inspiration-header{
+    padding: 20px 152px;
+    margin: 20px;
+}
+.Ins-style{
+    border-radius: 10px;
+    padding: 38px 152px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.ins-g{
+    font-weight: bolder;
+    font-size: 35px;
+}
+/* my current target */
+.target-items{
+    display: flex;
+    gap: 24px;
+}
+.tar-description{
+    font-size: 16;
+    
+}
+.tar-section{
+     padding: 20px 152px;
+}
+.tar-header{
+    text-align: center;
+    padding: 20px 152px;
+    margin: 20px;
+}
+
+.html-s{
+    max-width: 364px;
+    padding: 40px;
+    background-color: #ff4b1e11;
+    border: none;
+    border-radius: 10px;
+
+}
+.css-s{
+    max-width: 364px;
+    
+    padding: 40px;
+    background-color: #004de810;
+    border: none;
+    border-radius: 10px;
+
+}
+.java-s{
+    max-width: 364px;
+    padding: 40px;
+    background-color: #ffdd001a;
+    border: none;
+    border-radius: 10px;
+}
 /* nav styles */
 /* nav{
     display: flex;
@@ -73,6 +212,7 @@ nav ul{
 .banner-des{
     max-width: 1100px;
     text-align: center;
+    padding-bottom: 32px;
 
 
 }
